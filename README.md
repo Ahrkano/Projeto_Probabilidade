@@ -1,4 +1,4 @@
-# Projeto de avaliação de docentes
+# Projeto de Avaliação de Desempenho de Docentes IMD
 
 Alexandre Alyson Sousa Pontes
 e-mail: alexandresousapontes@gmail.com
