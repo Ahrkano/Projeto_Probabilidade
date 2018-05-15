@@ -19,12 +19,17 @@ e aos componentes curriculares ofertados pela UFRN.
 Links:
   
    http://dados.ufrn.br/dataset/turmas
+   
    http://dados.ufrn.br/dataset/matriculas-componentes
+   
    http://dados.ufrn.br/dataset/docentes
+   
    http://dados.ufrn.br/dataset/avaliacoes-de-docencia
+   
    http://dados.ufrn.br/dataset/componentes-curriculares
    
 Youtube:
+  
   https://www.youtube.com/watch?v=hJpFe4fe35Y&feature=youtu.be
   
   
