@@ -1,9 +1,11 @@
 # Projeto de Avaliação de Desempenho de Docentes IMD
 
 Alexandre Alyson Sousa Pontes
+
 e-mail: alexandresousapontes@gmail.com
 
 Péricles André Andrade Alves
+
 e-mail: pericles.a.andrade@gmail.com 
 
 
